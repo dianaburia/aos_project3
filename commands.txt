@@ -1,0 +1,6 @@
+push 21.67
+dup
+push 88.981
+add
+rev
+div
